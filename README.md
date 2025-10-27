@@ -6,10 +6,10 @@ O projeto tem como objetivo demonstrar a aplicação de **conceitos de engenhari
 A proposta consiste em um **sistema CRM voltado à gestão operacional de leads, pedidos e pagamentos** de produtos sustentáveis.
 
 O sistema permite:
-- O **cadastro e autenticação de leads**;  
-- A **montagem de pedidos** com seleção de produtos;  
-- A **simulação de pagamentos via cartão de crédito**;  
-- O **acompanhamento e atualização do status** do pedido e do cliente.
+- O cadastro e autenticação de leads;  
+- A montagem de pedidos com seleção de produtos;  
+- A simulação de pagamentos via cartão de crédito;  
+- O acompanhamento e atualização do status do pedido e do cliente.
 
 ## ⚙️ Tecnologias Utilizadas
 
@@ -65,8 +65,6 @@ O sistema utiliza o **SQL Server** como banco de dados relacional, com o **Entit
 - .NET 8.0 SDK  
 - SQL Server  
 - Conta de desenvolvedor Stripe (modo de teste)
-
----
 
 ### 🚀 Passos para executar
 
