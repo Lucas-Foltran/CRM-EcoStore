@@ -85,14 +85,24 @@ Localize a seção ConnectionStrings e altere a DefaultConnection para correspon
 }
 ```
 Após ajustar a conexão, execute o comando abaixo para aplicar as migrations e criar todas as tabelas automaticamente no banco de dados:<br>
-
+```bash
 dotnet tool install --global dotnet-ef
-
-2️⃣ **Executar o back-end**<br><br>
-cd backend<br>
+```
+2️⃣ **Executar o back-end**
+```bash
+cd backend
+```
+```bash
 dotnet run
+```
 
-3️⃣ **Executar o front-end**<br><br>
-cd frontend<br>
-npm install<br>
+3️⃣ **Executar o front-end**
+```bash
+cd frontend
+```
+```bash
+npm install
+```
+```bash
 ng serve
+```
