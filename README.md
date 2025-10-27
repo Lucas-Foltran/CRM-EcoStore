@@ -72,27 +72,27 @@ O sistema utiliza o **SQL Server** como banco de dados relacional, com o **Entit
 
 1️⃣ **Clonar o repositório**
 
-```bash
 git clone https://github.com/seuusuario/CRM-Operacional.git
 
 
 O projeto utiliza o Entity Framework Core com o padrão Code First, ou seja, o banco de dados e suas tabelas são criados automaticamente a partir das classes de modelo existentes no projeto back-end.
-No diretório backend, abra o arquivo appsettings.json.
+No diretório backend, abra o arquivo appsettings.json.<br>
 Localize a seção ConnectionStrings e altere a DefaultConnection para corresponder à sua instância local do SQL Server, conforme o exemplo abaixo:
 
+```bash
 "ConnectionStrings": {
   "DefaultConnection": "Server=SEU_SERVIDOR;Database=CRMOperacionalDB;Trusted_Connection=True;TrustServerCertificate=True;"
 }
-
-Após ajustar a conexão, execute o comando abaixo para aplicar as migrations e criar todas as tabelas automaticamente no banco de dados:
+```
+Após ajustar a conexão, execute o comando abaixo para aplicar as migrations e criar todas as tabelas automaticamente no banco de dados:<br>
 
 dotnet tool install --global dotnet-ef
 
-# 2️⃣ Executar o back-end
-cd backend
+2️⃣ **Executar o back-end**<br><br>
+cd backend<br>
 dotnet run
 
-# 3️⃣ Executar o front-end
-cd frontend
-npm install
+3️⃣ **Executar o front-end**<br><br>
+cd frontend<br>
+npm install<br>
 ng serve
