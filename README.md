@@ -59,18 +59,22 @@ O sistema utiliza o **SQL Server** como banco de dados relacional, com o **Entit
 
 ## ▶️ Execução do Projeto
 
-### 🔧 **Pré-requisitos**
+### 🔧 Pré-requisitos
 - Node.js 18+  
 - Angular CLI  
 - .NET 8.0 SDK  
 - SQL Server  
 - Conta de desenvolvedor Stripe (modo de teste)
 
-### 🚀 **Passos para executar**
+---
+
+### 🚀 Passos para executar
+
+1️⃣ **Clonar o repositório**
 
 ```bash
-# 1️⃣ Clonar o repositório
 git clone https://github.com/seuusuario/CRM-Operacional.git
+
 
 O projeto utiliza o Entity Framework Core com o padrão Code First, ou seja, o banco de dados e suas tabelas são criados automaticamente a partir das classes de modelo existentes no projeto back-end.
 No diretório backend, abra o arquivo appsettings.json.
