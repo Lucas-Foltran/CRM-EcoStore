@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\TCC\\CRM_TCC\\Vota\u00E7\u00E3o CRM_Homologa\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\TCC\\CRM_TCC\\Vota\u00E7\u00E3o CRM_Homologa\u00E7\u00E3o\\CRM.Infra\\Migrations\\20250502230823_usuarioTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.Infra\\Migrations\\20250502230823_usuarioTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B382910-4737-4260-931A-6DED8B1A1632}|CRM.API\\CRM.API.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\tcc\\crm_tcc\\vota\u00E7\u00E3o crm_homologa\u00E7\u00E3o\\crm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B382910-4737-4260-931A-6DED8B1A1632}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B382910-4737-4260-931A-6DED8B1A1632}|CRM.API\\CRM.API.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\tcc\\crm_tcc\\vota\u00E7\u00E3o crm_homologa\u00E7\u00E3o\\crm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B382910-4737-4260-931A-6DED8B1A1632}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250502230823_usuarioTable.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\TCC\\CRM_TCC\\Vota\u00E7\u00E3o CRM_Homologa\u00E7\u00E3o\\CRM.Infra\\Migrations\\20250502230823_usuarioTable.cs",
+              "RelativeDocumentMoniker": "CRM.Infra\\Migrations\\20250502230823_usuarioTable.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\TCC\\CRM_TCC\\Vota\u00E7\u00E3o CRM_Homologa\u00E7\u00E3o\\CRM.Infra\\Migrations\\20250502230823_usuarioTable.cs",
+              "RelativeToolTip": "CRM.Infra\\Migrations\\20250502230823_usuarioTable.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:08:23.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\TCC\\CRM_TCC\\Vota\u00E7\u00E3o CRM_Homologa\u00E7\u00E3o\\CRM.API\\Program.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\TCC\\CRM_TCC\\Vota\u00E7\u00E3o CRM_Homologa\u00E7\u00E3o\\CRM.API\\Program.cs",
+              "RelativeToolTip": "CRM.API\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:07:43.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\TCC\\CRM_TCC\\Vota\u00E7\u00E3o CRM_Homologa\u00E7\u00E3o\\CRM.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CRM.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\TCC\\CRM_TCC\\Vota\u00E7\u00E3o CRM_Homologa\u00E7\u00E3o\\CRM.API\\appsettings.json",
+              "RelativeToolTip": "CRM.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T23:02:39.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

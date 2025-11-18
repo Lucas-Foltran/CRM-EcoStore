@@ -1,0 +1,20 @@
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\bin\Debug\net7.0\CRM.Email.deps.json
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\bin\Debug\net7.0\CRM.Email.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\bin\Debug\net7.0\CRM.Email.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\bin\Debug\net7.0\CRM.Domain.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\bin\Debug\net7.0\CRM.Domain.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.csproj.Up2Date
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\refint\CRM.Email.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\ref\CRM.Email.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Email\obj\Debug\net7.0\CRM.Email.csproj.CoreCompileInputs.cache

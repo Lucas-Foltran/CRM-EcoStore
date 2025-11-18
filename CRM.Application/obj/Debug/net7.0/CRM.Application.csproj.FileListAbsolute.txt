@@ -1,0 +1,45 @@
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\bin\Debug\net7.0\CRM.Application.deps.json
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\bin\Debug\net7.0\CRM.Application.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\bin\Debug\net7.0\CRM.Application.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\bin\Debug\net7.0\CRM.Domain.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\bin\Debug\net7.0\CRM.Domain.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Appl.F64C2975.Up2Date
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\refint\CRM.Application.dll
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.pdb
+C:\Users\lucas\OneDrive\Documentos\Projetos TAFNER\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\ref\CRM.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\bin\Debug\net7.0\CRM.Application.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\bin\Debug\net7.0\CRM.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\bin\Debug\net7.0\CRM.Application.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\bin\Debug\net7.0\CRM.Domain.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\bin\Debug\net7.0\CRM.Domain.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Appl.F64C2975.Up2Date
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\refint\CRM.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\CRM.Application.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.Application\obj\Debug\net7.0\ref\CRM.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\bin\Debug\net7.0\CRM.Application.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\bin\Debug\net7.0\CRM.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\bin\Debug\net7.0\CRM.Application.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\bin\Debug\net7.0\CRM.Domain.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\bin\Debug\net7.0\CRM.Domain.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\obj\Debug\net7.0\CRM.Application.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\obj\Debug\net7.0\CRM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\obj\Debug\net7.0\CRM.Application.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\obj\Debug\net7.0\CRM.Application.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\obj\Debug\net7.0\CRM.Application.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\obj\Debug\net7.0\CRM.Appl.F64C2975.Up2Date
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\obj\Debug\net7.0\CRM.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\obj\Debug\net7.0\refint\CRM.Application.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\obj\Debug\net7.0\CRM.Application.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\CRM_API\CRM.Application\obj\Debug\net7.0\ref\CRM.Application.dll
