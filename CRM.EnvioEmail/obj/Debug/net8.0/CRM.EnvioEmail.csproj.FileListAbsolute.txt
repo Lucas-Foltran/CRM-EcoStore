@@ -1,5 +1,0 @@
-C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.EnvioEmail\obj\Debug\net8.0\CRM.EnvioEmail.csproj.AssemblyReference.cache
-C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.EnvioEmail\obj\Debug\net8.0\CRM.EnvioEmail.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.EnvioEmail\obj\Debug\net8.0\CRM.EnvioEmail.AssemblyInfoInputs.cache
-C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.EnvioEmail\obj\Debug\net8.0\CRM.EnvioEmail.AssemblyInfo.cs
-C:\Users\lucas\OneDrive\Área de Trabalho\TCC\CRM_TCC\Votação CRM_Homologação\CRM.EnvioEmail\obj\Debug\net8.0\CRM.EnvioEmail.csproj.CoreCompileInputs.cache

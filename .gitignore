@@ -1,0 +1,21 @@
+# Build
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+Logs/
+Arquivos/Log/
+
+# Publish Profiles
+*.pubxml
+*.pubxml.user
+
+# Environment
+appsettings.Development.json
